@@ -1,6 +1,8 @@
-# Hola, soy Antonio Moles 👋
+# Hola, soy Antonio Moles Leiva 👋
 
 **Desarrollador web · Granada, España**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Moles_Leiva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/antonio-moles-leiva-9700703a)
 
 Me gusta construir aplicaciones que se usan de verdad: del backend a la interfaz, y últimamente con IA corriendo en local, donde yo controlo los datos.
 
@@ -67,4 +69,5 @@ Me gusta construir aplicaciones que se usan de verdad: del backend a la interfaz
 
 ### 📫 ¿Hablamos?
 
-Lo mejor es abrir un issue en alguno de mis repos públicos o encontrarme por aquí, en GitHub.
+- 💼 [LinkedIn — Antonio Moles Leiva](https://es.linkedin.com/in/antonio-moles-leiva-9700703a)
+- Lo mejor para hablar de código es abrir un issue en alguno de mis repos públicos o encontrarme por aquí, en GitHub.
