@@ -1,3 +1,5 @@
+![Banner de Antonio Moles Leiva, espartano con su falange de lenguajes de programación luchando contra una mala idea](banner.png)
+
 # Hola, soy Antonio Moles Leiva 👋
 
 **Desarrollador web · Granada, España**
@@ -48,7 +50,7 @@ Me gusta construir aplicaciones que se usan de verdad: del backend a la interfaz
 
 - **Técnico Superior en Desarrollo de Aplicaciones Informáticas** — 2007
 - **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2015
-- **Máster en Desarrollo con IA** — BigSchool, 2026
+- **Máster en Desarrollo con IA** — BigASchool, 2026
 
 ---
 
