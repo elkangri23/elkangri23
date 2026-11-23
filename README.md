@@ -22,6 +22,7 @@ Me gusta construir aplicaciones que se usan de verdad: del backend a la interfaz
 | **[Retaton](https://retaton.laurafernandezenfermeria.com)** | App de interacción con la audiencia en español, estilo Mentimeter + Kahoot: presentaciones en vivo, preguntas, concursos con rachas y podio. | PHP · Laravel 13 · React · TypeScript · Inertia · MySQL · Redis |
 | **[MapaMental](https://github.com/elkangri23/MapaMental)** | Clon funcional de MyMap.ai: mapas mentales generados por chat, con lienzo, diapositivas y presentación a pantalla completa. | TypeScript |
 | **[listaCompra](https://github.com/elkangri23/listaCompra)** | Backend de lista de la compra colaborativa, para aprender Clean Architecture / Hexagonal con Outbox. | TypeScript |
+| **[A mi ritmo](https://github.com/elkangri23/A-mi-ritmo)** | Teleprompter para Android con control desde Wear OS: guiones por secciones, lectura sin conexión y manos libres para ponencias y charlas. Prototipo funcional v0.1.0. | Kotlin · Android · Wear OS |
 
 🌐 **En vivo:** [Meridiano-cero](https://meridianocero.laurafernandezenfermeria.com) · [Retaton](https://retaton.laurafernandezenfermeria.com)
 
